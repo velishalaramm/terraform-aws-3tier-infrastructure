@@ -5,7 +5,7 @@ variable "region" {
 }
 
 variable "project_name" {
-  default = "Yadagiri"
+  default = "Ramm"
   description = "Project Name"
   type = string
 }
